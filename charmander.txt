@@ -1,1 +1,3 @@
 move: flamethrower 
+
+move: water-cannon
